@@ -1,0 +1,6 @@
+C:\Users\EXTENSION\Documents\C# Developer\14042019\slnApp\App.Data\bin\Debug\App.Data.dll
+C:\Users\EXTENSION\Documents\C# Developer\14042019\slnApp\App.Data\bin\Debug\App.Data.pdb
+C:\Users\EXTENSION\Documents\C# Developer\14042019\slnApp\App.Data\obj\Debug\App.Data.csprojAssemblyReference.cache
+C:\Users\EXTENSION\Documents\C# Developer\14042019\slnApp\App.Data\obj\Debug\App.Data.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Documents\C# Developer\14042019\slnApp\App.Data\obj\Debug\App.Data.dll
+C:\Users\EXTENSION\Documents\C# Developer\14042019\slnApp\App.Data\obj\Debug\App.Data.pdb
