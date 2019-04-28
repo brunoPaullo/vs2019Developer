@@ -1,0 +1,10 @@
+-- Album y Genre --
+Get
+GetAll
+Insert
+Update
+Delete
+
+Filters: 
+Albun: Title
+Genre: Name

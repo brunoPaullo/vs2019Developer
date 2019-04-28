@@ -13,3 +13,5 @@ C:\Users\EXTENSION\Documents\C# Developer\github\vs2019Developer\Cap02\slnApp\Ap
 C:\Users\EXTENSION\Documents\C# Developer\github\vs2019Developer\Cap02\slnApp\App.Data\obj\Debug\App.Data.csproj.CopyComplete
 C:\Users\EXTENSION\Documents\C# Developer\github\vs2019Developer\Cap02\slnApp\App.Data\obj\Debug\App.Data.dll
 C:\Users\EXTENSION\Documents\C# Developer\github\vs2019Developer\Cap02\slnApp\App.Data\obj\Debug\App.Data.pdb
+C:\Users\EXTENSION\Documents\C# Developer\github\vs2019Developer\Cap02\slnApp\App.Data\bin\Debug\Dapper.dll
+C:\Users\EXTENSION\Documents\C# Developer\github\vs2019Developer\Cap02\slnApp\App.Data\bin\Debug\Dapper.xml

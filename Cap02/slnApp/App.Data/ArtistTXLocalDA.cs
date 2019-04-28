@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace App.Data
 {
-    public class ArtistDA : BaseConnection
+    public class ArtistTXLocalDA : BaseConnection
     {
         /// <summary>
         /// Permite obtener la catidad de registros que existen en la tabla Artista
@@ -143,15 +143,31 @@ namespace App.Data
             using (IDbConnection cn = new SqlConnection(ConnectionString))
             {
                 cn.Open();
-                IDbCommand cmd = new SqlCommand("usp_InsertArtist")
+                // Iniciando el bloque de transaccion local
+                var transaction = cn.BeginTransaction();
+                try
                 {
-                    CommandType = CommandType.StoredProcedure
-                };
-                cmd.Connection = cn;
-                cmd.Parameters.Add(
-                    new SqlParameter("@pName", artist.Name)
-                    );
-                resultado = Convert.ToInt32(cmd.ExecuteScalar());
+                    IDbCommand cmd = new SqlCommand("usp_InsertArtist")
+                    {
+                        CommandType = CommandType.StoredProcedure
+                    };
+                    cmd.Connection = cn;
+                    cmd.Parameters.Add(
+                        new SqlParameter("@pName", artist.Name)
+                        );
+                    // Asociando la transaccion local al objeto command
+                    cmd.Transaction = transaction;
+
+                    resultado = Convert.ToInt32(cmd.ExecuteScalar());
+
+                    // Confirmando la transaccion
+                    transaction.Commit();
+                }
+                catch (Exception)
+                {
+                    // Cancelando la transaccion local
+                    transaction.Rollback();
+                }
             }
             return resultado;
         }
@@ -162,18 +178,29 @@ namespace App.Data
             using (IDbConnection cn = new SqlConnection(ConnectionString))
             {
                 cn.Open();
-                IDbCommand cmd = new SqlCommand("usp_UpdateArtist")
+                var transaction = cn.BeginTransaction();
+                try
                 {
-                    CommandType = CommandType.StoredProcedure
-                };
-                cmd.Connection = cn;
-                cmd.Parameters.Add(
-                    new SqlParameter("@pArtistId", artist.ArtistId)
-                    );
-                cmd.Parameters.Add(
-                    new SqlParameter("@pName", artist.Name)
-                    );
-                resultado = cmd.ExecuteNonQuery();
+                    IDbCommand cmd = new SqlCommand("usp_UpdateArtist")
+                    {
+                        CommandType = CommandType.StoredProcedure
+                    };
+                    cmd.Connection = cn;
+                    cmd.Transaction = transaction;
+                    cmd.Parameters.Add(
+                        new SqlParameter("@pArtistId", artist.ArtistId)
+                        );
+                    cmd.Parameters.Add(
+                        new SqlParameter("@pName", artist.Name)
+                        );
+
+                    resultado = cmd.ExecuteNonQuery();
+                    transaction.Commit();
+                }
+                catch (Exception)
+                {
+                    transaction.Rollback();
+                }
             }
             return resultado;
         }
@@ -184,15 +211,25 @@ namespace App.Data
             using (IDbConnection cn = new SqlConnection(ConnectionString))
             {
                 cn.Open();
-                IDbCommand cmd = new SqlCommand("usp_DeleteArtist")
+                var transaction = cn.BeginTransaction();
+                try
                 {
-                    CommandType = CommandType.StoredProcedure
-                };
-                cmd.Connection = cn;
-                cmd.Parameters.Add(
-                    new SqlParameter("@pArtistId", artistId)
-                    );
-                resultado = cmd.ExecuteNonQuery();
+                    IDbCommand cmd = new SqlCommand("usp_DeleteArtist")
+                    {
+                        CommandType = CommandType.StoredProcedure
+                    };
+                    cmd.Connection = cn;
+                    cmd.Transaction = transaction;
+                    cmd.Parameters.Add(
+                        new SqlParameter("@pArtistId", artistId)
+                        );
+                    resultado = cmd.ExecuteNonQuery();
+                    transaction.Commit();
+                }
+                catch (Exception)
+                {
+                    transaction.Rollback();
+                }
             }
             return resultado;
         }
