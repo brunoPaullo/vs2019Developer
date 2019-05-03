@@ -45,11 +45,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlbumTXLocalDapperDA.cs" />
     <Compile Include="ArtistTXDistribuidaDA.cs" />
     <Compile Include="ArtistTXLocalDapperDA.cs" />
     <Compile Include="ArtistTXLocalDA.cs" />
     <Compile Include="ArtistDA.cs" />
     <Compile Include="BaseConnection.cs" />
+    <Compile Include="GenreTXLocalDapperDA.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

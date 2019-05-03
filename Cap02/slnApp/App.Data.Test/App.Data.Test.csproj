@@ -49,10 +49,12 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlbumTXLocalDapperDAUnitTest.cs" />
     <Compile Include="ArtistTXDistDAUnitTest.cs" />
     <Compile Include="ArtistTXLocalDapperDAUnitTest.cs" />
     <Compile Include="ArtistTXLocalDAUnitTest.cs" />
     <Compile Include="ArtistDAUnitTest.cs" />
+    <Compile Include="GenreTXLocalDapperDAUnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
