@@ -5,10 +5,11 @@ using System.Data;
 using System.Data.SqlClient;
 using Dapper;
 using System.Linq;
+using System.Transactions;
 
 namespace App.Data
 {
-    public class ArtistTXLocalDapperDA : BaseConnection
+    public class ArtistTXDistribuidaDapperDA : BaseConnection
     {
         /// <summary>
         /// Permite obtener la catidad de registros que existen en la tabla Artista
@@ -111,28 +112,21 @@ namespace App.Data
         public int InsertTx(Artist artist)
         {
             var resultado = 0;
-            using (IDbConnection cn = new SqlConnection(ConnectionString))
+            using (var tx = new TransactionScope())
             {
-                //Open the connection to data base
-                //After to start the transaccion
-                cn.Open();
-
-                //Start the transaccion
-                var tx = cn.BeginTransaction();
-                try
+                using (IDbConnection cn = new SqlConnection(ConnectionString))
                 {
-                    resultado = cn.ExecuteScalar<int>("usp_InsertArtist",
-                        new { pName = artist.Name }
-                        , commandType: CommandType.StoredProcedure,
-                        transaction: tx);
-                    //Commit the transaccion
-                    tx.Commit();
-                }
-                catch (Exception)
-                {
-                    //Discart changes
-                    resultado = 0;
-                    tx.Rollback();
+                    try
+                    {
+                        resultado = cn.ExecuteScalar<int>("usp_InsertArtist",
+                            new { pName = artist.Name }
+                            , commandType: CommandType.StoredProcedure);
+                        tx.Complete();
+                    }
+                    catch (Exception)
+                    {
+                        resultado = 0;
+                    }
                 }
             }
             return resultado;
@@ -141,23 +135,22 @@ namespace App.Data
         public int UpdateTx(Artist artist)
         {
             var resultado = 0;
-            using (IDbConnection cn = new SqlConnection(ConnectionString))
+            using (var tx = new TransactionScope())
             {
-                cn.Open();
-                var tx = cn.BeginTransaction();
-                try
+                using (IDbConnection cn = new SqlConnection(ConnectionString))
                 {
-                    resultado = cn.Execute("usp_UpdateArtist",
-                        new { pArtistId = artist.ArtistId, pName = artist.Name },
-                        commandType: CommandType.StoredProcedure,
-                        transaction: tx);
-                    tx.Commit();
-                }
-                catch (Exception)
-                {
-                    resultado = 0;
-                    tx.Rollback();
-                }
+                    try
+                    {
+                        resultado = cn.Execute("usp_UpdateArtist",
+                            new { pArtistId = artist.ArtistId, pName = artist.Name },
+                            commandType: CommandType.StoredProcedure);
+                        tx.Complete();
+                    }
+                    catch (Exception)
+                    {
+                        resultado = 0;
+                    }
+                } 
             }
             return resultado;
         }
@@ -165,23 +158,22 @@ namespace App.Data
         public int DeleteTx(int artistId)
         {
             var resultado = 0;
-            using (IDbConnection cn = new SqlConnection(ConnectionString))
+            using (var tx = new TransactionScope())
             {
-                cn.Open();
-                var tx = cn.BeginTransaction();
-                try
+                using (IDbConnection cn = new SqlConnection(ConnectionString))
                 {
-                    resultado = cn.Execute("usp_DeleteArtist",
-                        new { pArtistId = artistId }
-                        , commandType: CommandType.StoredProcedure,
-                        transaction: tx);
-                    tx.Commit();
-                }
-                catch (Exception)
-                {
-                    resultado = 0;
-                    tx.Rollback();
-                }
+                    try
+                    {
+                        resultado = cn.Execute("usp_DeleteArtist",
+                            new { pArtistId = artistId }
+                            , commandType: CommandType.StoredProcedure);
+                        tx.Complete();
+                    }
+                    catch (Exception)
+                    {
+                        resultado = 0;
+                    }
+                } 
             }
             return resultado;
         }

@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="AlbumTXLocalDapperDA.cs" />
     <Compile Include="ArtistTXDistribuidaDA.cs" />
+    <Compile Include="ArtistTXDistribuidaDapperDA.cs" />
     <Compile Include="ArtistTXLocalDapperDA.cs" />
     <Compile Include="ArtistTXLocalDA.cs" />
     <Compile Include="ArtistDA.cs" />
