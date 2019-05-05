@@ -102,5 +102,85 @@ namespace App.Data
             }
             return resultado;
         }
+
+        /// <summary>
+        /// Transaccion with Dapper
+        /// </summary>
+        /// <param name="artist"></param>
+        /// <returns></returns>
+        public int InsertTx(Artist artist)
+        {
+            var resultado = 0;
+            using (IDbConnection cn = new SqlConnection(ConnectionString))
+            {
+                //Open the connection to data base
+                //After to start the transaccion
+                cn.Open();
+
+                //Start the transaccion
+                var tx = cn.BeginTransaction();
+                try
+                {
+                    resultado = cn.ExecuteScalar<int>("usp_InsertArtist",
+                        new { pName = artist.Name }
+                        , commandType: CommandType.StoredProcedure,
+                        transaction: tx);
+                    //Commit the transaccion
+                    tx.Commit();
+                }
+                catch (Exception)
+                {
+                    //Discart changes
+                    tx.Rollback();
+                }
+            }
+            return resultado;
+        }
+
+        public int UpdateTx(Artist artist)
+        {
+            var resultado = 0;
+            using (IDbConnection cn = new SqlConnection(ConnectionString))
+            {
+                cn.Open();
+                var tx = cn.BeginTransaction();
+                try
+                {
+                    resultado = cn.Execute("usp_UpdateArtist",
+                        new { pArtistId = artist.ArtistId, pName = artist.Name },
+                        commandType: CommandType.StoredProcedure,
+                        transaction: tx);
+                    tx.Commit();
+                }
+                catch (Exception)
+                {
+                    tx.Rollback();
+                }
+            }
+            return resultado;
+        }
+
+        public int DeleteTx(int artistId)
+        {
+            var resultado = 0;
+            using (IDbConnection cn = new SqlConnection(ConnectionString))
+            {
+                cn.Open();
+                var tx = cn.BeginTransaction();
+                try
+                {
+                    resultado = cn.Execute("usp_DeleteArtist",
+                        new { pArtistId = artistId }
+                        , commandType: CommandType.StoredProcedure,
+                        transaction: tx);
+                    tx.Commit();
+                }
+                catch (Exception)
+                {
+                    tx.Rollback();
+                }
+            }
+            return resultado;
+        }
     }
 }
