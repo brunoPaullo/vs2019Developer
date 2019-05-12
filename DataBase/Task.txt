@@ -8,3 +8,7 @@ Delete
 Filters: 
 Albun: Title
 Genre: Name
+
+Facturacion Electronica
+Llama.pe
+Nubefact --->Reseller

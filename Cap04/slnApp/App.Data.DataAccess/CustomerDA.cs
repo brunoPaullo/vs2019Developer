@@ -1,62 +1,64 @@
 ﻿using App.Entities.Base;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.Entity;
+
 namespace App.Data.DataAccess
 {
-    public class ArtistDA
+    public class CustomerDA
     {
-        public List<Artist> GetAll(string nombre)
+        public List<Customer> GetAll(string firstName)
         {
-            var result = new List<Artist>();
+            var result = new List<Customer>();
             using (var db = new DBModel())
             {
-                result = db.Artist
-                    .Where(a => a.Name.Contains(nombre))
-                    .OrderBy(a => a.Name)
+                result = db.Customer
+                    .Where(a => string.Concat(a.FirstName," ",a.LastName).Contains(firstName))
+                    .OrderBy(a => a.LastName)
+                    .ThenBy(a=>a.FirstName)
                     .ToList();
             }
             return result;
         }
 
-        public Artist Get(int id)
+        public Customer Get(int id)
         {
-            var result = new Artist();
+            var result = new Customer();
             using (var db = new DBModel())
             {
-                result = db.Artist.Find(id);
+                result = db.Customer.Find(id);
             }
             return result;
         }
 
-        public int Insert(Artist artist)
+        public int Insert(Customer  customer)
         {
             var result = 0;
             using (var db = new DBModel())
             {
                 //Agrega la entidad al contexo
-                db.Artist.Add(artist);
+                db.Customer.Add(customer);
                 //Se confirma la transaccion
                 db.SaveChanges();
 
-                result = artist.ArtistId;
+                result = customer.CustomerId;
             }
             return result;
         }
 
-        public bool Update(Artist artist)
+        public bool Update(Customer customer)
         {
             var result = false;
             using (var db = new DBModel())
             {
                 //Atachamos la entidad al contexto
-                db.Artist.Attach(artist);
+                db.Customer.Attach(customer);
 
                 //Cambiando el estado de la entidad
-                db.Entry(artist).State = EntityState.Modified;
+                db.Entry(customer).State = EntityState.Modified;
 
                 //Confirmando la transaccion
                 db.SaveChanges();
@@ -66,17 +68,17 @@ namespace App.Data.DataAccess
             return result;
         }
 
-        public bool Delete(int artistId)
+        public bool Delete(int customerId)
         {
             var result = false;
             using (var db = new DBModel())
             {
-                var artist = new Artist
+                var customer = new Customer
                 {
-                    ArtistId = artistId
+                    CustomerId = customerId
                 };
-                db.Artist.Attach(artist);
-                db.Artist.Remove(artist);
+                db.Customer.Attach(customer);
+                db.Customer.Remove(customer);
 
                 //Confirmando la transaccion
                 db.SaveChanges();
