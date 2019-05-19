@@ -20,7 +20,7 @@ namespace App.Data.DataAccessTest
         [TestMethod]
         public void Get()
         {
-            var artists = da.Get(5);
+            var artists = da.Get(1);
             Assert.IsTrue(artists.ArtistId > 0);
         }
 

@@ -12,3 +12,5 @@ C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.pdb

@@ -25,3 +25,5 @@ C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccessTest\obj\Debug\App.Data.DataAccessTest.csproj.CopyComplete
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccessTest\obj\Debug\App.Data.DataAccessTest.dll
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccessTest\obj\Debug\App.Data.DataAccessTest.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccessTest\bin\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccessTest\bin\Debug\App.Entities.Queries.pdb

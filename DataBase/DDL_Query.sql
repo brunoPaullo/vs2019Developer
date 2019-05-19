@@ -238,3 +238,31 @@ BEGIN
 	VALUES(@InvoiceId, @TrackId, @UnitPrice, @Quantity)
 END
 GO
+
+
+CREATE PROCEDURE usp_GetTracks
+(
+@trackName NVARCHAR(200)
+)
+AS
+BEGIN
+SELECT 
+	B.TrackId, 
+	B.Name AS TrackName, 
+	A.Title AS AlbumTitle, 
+	D.Name AS MediaTypeName, 
+	C.Name AS GenreName, 
+	B.Composer, 
+	B.Milliseconds, 
+	B.Bytes,
+	B.UnitPrice
+FROM	dbo.Album AS A INNER JOIN
+        dbo.Track AS B ON A.AlbumId = B.AlbumId INNER JOIN
+        dbo.Genre AS C ON B.GenreId = C.GenreId INNER JOIN
+        dbo.MediaType AS D ON B.MediaTypeId = D.MediaTypeId
+WHERE B.Name LIKE @trackName
+ORDER BY TrackName
+END
+GO
+
+EXEC usp_GetTracks '%VOLTA%'

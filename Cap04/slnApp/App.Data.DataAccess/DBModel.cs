@@ -11,6 +11,11 @@ namespace App.Data.DataAccess
         public DBModel()
             : base("name=cnxDBModel")
         {
+            //Desabilitando la carga pezada
+            this.Configuration.LazyLoadingEnabled = false;
+            this.Configuration.ProxyCreationEnabled = false;
+            this.Configuration.AutoDetectChangesEnabled = false;
+            this.Configuration.ValidateOnSaveEnabled = false;
         }
 
         public virtual DbSet<Album> Album { get; set; }

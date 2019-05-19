@@ -27,7 +27,15 @@ namespace App.Data.DataAccess
             var result = new Artist();
             using (var db = new DBModel())
             {
-                result = db.Artist.Find(id);
+                //Con Lazy Loading
+                //result = db.Artist
+                //    .Find(id);
+
+                //Con Include
+                result = db.Artist
+                    .Include(item => item.Album)
+                    .Where(item => item.ArtistId == id)
+                    .FirstOrDefault();
             }
             return result;
         }
