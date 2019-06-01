@@ -60,3 +60,34 @@ C:\Users\EXTENSION\Documents\C# Developer\Git\Exam1\slnExam\App.Data.UnitTest\ob
 C:\Users\EXTENSION\Documents\C# Developer\Git\Exam1\slnExam\App.Data.UnitTest\obj\Debug\App.Data.UnitTest.csproj.CopyComplete
 C:\Users\EXTENSION\Documents\C# Developer\Git\Exam1\slnExam\App.Data.UnitTest\obj\Debug\App.Data.UnitTest.dll
 C:\Users\EXTENSION\Documents\C# Developer\Git\Exam1\slnExam\App.Data.UnitTest\obj\Debug\App.Data.UnitTest.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\App.Data.UnitTest.dll.config
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\App.Data.UnitTest.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\App.Data.UnitTest.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\App.Data.DataAcces.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\App.Entities.Base.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\App.Entities.Query.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\Dapper.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\App.Data.DataAcces.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\App.Data.DataAcces.dll.config
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\App.Entities.Base.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\App.Entities.Query.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\bin\Debug\Dapper.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\obj\Debug\App.Data.UnitTest.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\obj\Debug\App.Data.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\obj\Debug\App.Data.UnitTest.csproj.CopyComplete
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\obj\Debug\App.Data.UnitTest.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.UnitTest\obj\Debug\App.Data.UnitTest.pdb

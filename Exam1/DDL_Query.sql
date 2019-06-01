@@ -64,5 +64,6 @@ CREATE PROCEDURE usp_InsertNotas
 AS
 BEGIN
 	INSERT INTO Notas (AlumnoID, CursoID, Nota) VALUES(@AlumnoID, @CursoID, @Nota)
+	SELECT SCOPE_IDENTITY()
 END
 GO

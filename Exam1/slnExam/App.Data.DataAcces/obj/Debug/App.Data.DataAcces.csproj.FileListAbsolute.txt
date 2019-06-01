@@ -16,3 +16,21 @@ C:\Users\EXTENSION\Documents\C# Developer\Git\Exam\slnExam\App.Data.DataAcces\bi
 C:\Users\EXTENSION\Documents\C# Developer\Git\Exam\slnExam\App.Data.DataAcces\bin\Debug\Dapper.dll
 C:\Users\EXTENSION\Documents\C# Developer\Git\Exam\slnExam\App.Data.DataAcces\bin\Debug\App.Entities.Query.pdb
 C:\Users\EXTENSION\Documents\C# Developer\Git\Exam\slnExam\App.Data.DataAcces\bin\Debug\Dapper.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\App.Data.DataAcces.dll.config
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\App.Data.DataAcces.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\App.Data.DataAcces.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\App.Entities.Base.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\App.Entities.Query.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\Dapper.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\EntityFramework.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\App.Entities.Base.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\App.Entities.Query.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\Dapper.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\EntityFramework.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\obj\Debug\App.Data.DataAcces.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\obj\Debug\App.Data.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\obj\Debug\App.Data.DataAcces.csproj.CopyComplete
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\obj\Debug\App.Data.DataAcces.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Data.DataAcces\obj\Debug\App.Data.DataAcces.pdb

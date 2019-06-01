@@ -10,7 +10,25 @@ namespace App.Data.UnitTest
     {
         private readonly AlumnoDA alumnoDA = new AlumnoDA();
         private readonly AlumnoEntityFramework alumnoEF = new AlumnoEntityFramework();
-        private readonly AlumnoDapper alumnoDP = new AlumnoDapper();
+        private readonly AlumnoDapper alumnoDapper = new AlumnoDapper();
+
+        #region Ejercicio 2
+        [TestMethod]
+        public void Insert()
+        {
+            var alumno = new Alumno()
+            {
+                Nombres = "Diego",
+                Apellidos = "Crus",
+                Sexo = "M",
+                FechaNacimiento = DateTime.Now,
+                Direccion = "Los Nogales 455"
+            };
+
+            var result = alumnoDA.Insert(alumno);
+
+            Assert.IsTrue(result > 0);
+        }
 
         [TestMethod]
         public void GetAll()
@@ -19,38 +37,44 @@ namespace App.Data.UnitTest
 
             Assert.IsTrue(alumnos.Count > 0);
         }
+        #endregion
 
+        #region Ejercicio 3
         [TestMethod]
-        public void GetAlumnoIfo()
+        public void InsertNotas()
         {
-            var alumnos = alumnoDP.GetAll("Primero","C#");
+            var nota = new Notas()
+            {
+                AlumnoID = 4,
+                CursoID = 4,
+                Nota = 17
+            };
+
+            var result = alumnoDapper.InsertNotas(nota);
+
+            Assert.IsTrue(result > 0);
+        }
+        #endregion
+
+        #region Ejercicio 4
+        [TestMethod]
+        public void GetAlumnoInfo()
+        {
+            var alumnos = alumnoDapper.GetAll("Primero", "Base de Datos");
 
             Assert.IsTrue(alumnos.Count > 0);
         }
+        #endregion
 
+        #region Ejercicio 5
         [TestMethod]
         public void GetAllEntityFramework()
         {
             var alumnos = alumnoEF.GetAll();
 
             Assert.IsTrue(alumnos.Count > 0);
-        }
+        } 
+        #endregion
 
-        [TestMethod]
-        public void Insert()
-        {
-            var alumno = new Alumno()
-            {
-                Nombres = "Fredy",
-                Apellidos = "Galvez",
-                Sexo = "M",
-                FechaNacimiento = DateTime.Now,
-                Direccion = "Los Alamos"
-            };
-
-           var result = alumnoDA.Insert(alumno);
-
-            Assert.IsTrue(result > 0);
-        }
     }
 }

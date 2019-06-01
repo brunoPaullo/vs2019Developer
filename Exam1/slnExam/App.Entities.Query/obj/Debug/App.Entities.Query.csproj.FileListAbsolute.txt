@@ -4,3 +4,9 @@ C:\Users\EXTENSION\Documents\C# Developer\Git\Exam\slnExam\App.Entities.Query\ob
 C:\Users\EXTENSION\Documents\C# Developer\Git\Exam\slnExam\App.Entities.Query\obj\Debug\App.Entities.Query.csproj.CoreCompileInputs.cache
 C:\Users\EXTENSION\Documents\C# Developer\Git\Exam\slnExam\App.Entities.Query\obj\Debug\App.Entities.Query.dll
 C:\Users\EXTENSION\Documents\C# Developer\Git\Exam\slnExam\App.Entities.Query\obj\Debug\App.Entities.Query.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Entities.Query\bin\Debug\App.Entities.Query.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Entities.Query\bin\Debug\App.Entities.Query.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Entities.Query\obj\Debug\App.Entities.Query.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Entities.Query\obj\Debug\App.Entities.Query.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Entities.Query\obj\Debug\App.Entities.Query.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Exam1\slnExam\App.Entities.Query\obj\Debug\App.Entities.Query.pdb
