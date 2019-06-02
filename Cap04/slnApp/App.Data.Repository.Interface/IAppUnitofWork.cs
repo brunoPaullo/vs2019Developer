@@ -10,6 +10,7 @@ namespace App.Data.Repository.Interface
     {
         IArtistRepository ArtistRepository { get; set; }
         IAlbumRepository AlbumRepository { get; set; }
+        ITrackRepository TrackRepository { get; set; }
 
         int Complete();
     }

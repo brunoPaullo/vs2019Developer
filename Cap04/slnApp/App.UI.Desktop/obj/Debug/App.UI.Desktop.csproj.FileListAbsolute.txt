@@ -20,3 +20,10 @@ C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.UI.De
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.csproj.CopyComplete
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.exe
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.frmReporteTracks.resources
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.UI.Desktop\obj\Debug\App.UI.Desktop.MDIPrincipal.resources
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.UI.Desktop\bin\Debug\App.Data.repository.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.UI.Desktop\bin\Debug\App.Data.Repository.Interface.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.UI.Desktop\bin\Debug\App.Data.Repository.Interface.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.UI.Desktop\bin\Debug\App.Data.repository.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.UI.Desktop\bin\Debug\App.Data.repository.dll.config

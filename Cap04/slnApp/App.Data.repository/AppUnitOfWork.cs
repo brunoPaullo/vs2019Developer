@@ -16,12 +16,14 @@ namespace App.Data.repository
         public AppUnitOfWork()
         {
             _context = new DBModel();
-            ArtistRepository = new ArtistRepository(_context);
-            AlbumRepository = new AlbumRepository(_context);
+            this.ArtistRepository = new ArtistRepository(_context);
+            this.AlbumRepository = new AlbumRepository(_context);
+            this.TrackRepository = new TrackRepository(_context);
         }
 
         public IArtistRepository ArtistRepository { get; set; }
         public IAlbumRepository AlbumRepository { get; set; }
+        public ITrackRepository TrackRepository { get; set; }
 
         public int Complete()
         {

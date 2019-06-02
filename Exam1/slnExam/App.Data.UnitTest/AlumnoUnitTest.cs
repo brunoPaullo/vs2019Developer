@@ -18,7 +18,7 @@ namespace App.Data.UnitTest
         {
             var alumno = new Alumno()
             {
-                Nombres = "Diego",
+                Nombres = "Juan",
                 Apellidos = "Crus",
                 Sexo = "M",
                 FechaNacimiento = DateTime.Now,
@@ -45,8 +45,8 @@ namespace App.Data.UnitTest
         {
             var nota = new Notas()
             {
-                AlumnoID = 4,
-                CursoID = 4,
+                AlumnoID = 2,
+                CursoID = 2,
                 Nota = 17
             };
 
@@ -60,7 +60,7 @@ namespace App.Data.UnitTest
         [TestMethod]
         public void GetAlumnoInfo()
         {
-            var alumnos = alumnoDapper.GetAll("Primero", "Base de Datos");
+            var alumnos = alumnoDapper.GetAll("Primero", "Java");
 
             Assert.IsTrue(alumnos.Count > 0);
         }

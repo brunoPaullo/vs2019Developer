@@ -7,3 +7,5 @@ C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csproj.CopyComplete
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.dll
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Queries.pdb

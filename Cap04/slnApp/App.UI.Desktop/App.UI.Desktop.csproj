@@ -53,16 +53,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmReporteTracks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteTracks.Designer.cs">
+      <DependentUpon>frmReporteTracks.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="MDIPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIPrincipal.Designer.cs">
+      <DependentUpon>MDIPrincipal.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmReporteTracks.resx">
+      <DependentUpon>frmReporteTracks.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIPrincipal.resx">
+      <DependentUpon>MDIPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -91,6 +109,14 @@
     <ProjectReference Include="..\App.Data.DataAccess\App.Data.DataAccess.csproj">
       <Project>{178fb344-2239-41ef-a12a-41ecd719a80c}</Project>
       <Name>App.Data.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\App.Data.Repository.Interface\App.Data.Repository.Interface.csproj">
+      <Project>{100fb7d3-44c4-4375-ac59-f04e5e9b7132}</Project>
+      <Name>App.Data.Repository.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\App.Data.repository\App.Data.repository.csproj">
+      <Project>{351f1ebd-c23a-4d02-a1f8-7efc1d79aa3d}</Project>
+      <Name>App.Data.repository</Name>
     </ProjectReference>
     <ProjectReference Include="..\App.Entities.Base\App.Entities.Base.csproj">
       <Project>{a9e71466-2473-46df-af95-ec9a11acde26}</Project>
