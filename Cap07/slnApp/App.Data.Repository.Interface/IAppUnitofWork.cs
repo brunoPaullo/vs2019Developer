@@ -8,12 +8,18 @@ namespace App.Data.Repository.Interface
 {
     public interface IAppUnitofWork : IDisposable
     {
-        IArtistRepository ArtistRepository { get; set; }
+        
         IAlbumRepository AlbumRepository { get; set; }
-        ITrackRepository TrackRepository { get; set; }
+        IArtistRepository ArtistRepository { get; set; }
+        ICustomerRepository CustomerRepository { get; set; }
+        IEmployeeRepository EmployeeRepository { get; set; }
         IGenreRepository GenreRepository { get; set; }
+        IInvoiceLineRepository InvoiceLineRepository { get; set; }
+        IInvoiceRepository InvoiceRepository { get; set; }
         IMediaTypeRepository MediaTypeRepository { get; set; }
-
+        IPlayListRepository PlayListRepository { get; set; }
+        ITrackRepository TrackRepository { get; set; }
+       
         int Complete();
     }
 }

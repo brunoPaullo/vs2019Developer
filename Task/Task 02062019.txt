@@ -1,10 +1,10 @@
 -Implement
-Customer
-Artist
-Employee
-Genre
-Invoice
-InoiceLine
-MediaType
-PlayList
-Track
+Customer	---
+Artist	---
+Employee	---
+Genre	---
+Invoice	---
+InvoiceLine	---
+MediaType	---
+PlayList	---
+Track	---

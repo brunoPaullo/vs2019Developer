@@ -21,6 +21,11 @@ namespace App.Data.repository
             this.TrackRepository = new TrackRepository(_context);
             this.GenreRepository = new GenreRepository(_context);
             this.MediaTypeRepository = new MediaTypeRepository(_context);
+            this.CustomerRepository = new CustomerRepository(_context);
+            this.InvoiceRepository = new InvoiceRepository(_context);
+            this.InvoiceLineRepository = new InvoiceLineRepository(_context);
+            this.PlayListRepository = new PlayListRepository(_context);
+            this.EmployeeRepository = new EmployeeRepository(_context);
         }
 
         public IArtistRepository ArtistRepository { get; set; }
@@ -28,6 +33,11 @@ namespace App.Data.repository
         public ITrackRepository TrackRepository { get; set; }
         public IGenreRepository GenreRepository { get; set; }
         public IMediaTypeRepository MediaTypeRepository { get; set; }
+        public ICustomerRepository CustomerRepository { get; set; }
+        public IEmployeeRepository EmployeeRepository { get; set; }
+        public IInvoiceLineRepository InvoiceLineRepository { get; set; }
+        public IInvoiceRepository InvoiceRepository { get; set; }
+        public IPlayListRepository PlayListRepository { get; set; }
 
         public int Complete()
         {
