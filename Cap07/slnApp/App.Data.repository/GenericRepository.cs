@@ -41,7 +41,7 @@ namespace App.Data.repository
 
             if (filter != null)
             {
-                query.Where(filter);
+                query = query.Where(filter);
             }
 
             if (orderBy != null)

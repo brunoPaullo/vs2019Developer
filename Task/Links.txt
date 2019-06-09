@@ -1,0 +1,13 @@
+Get image dates
+https://stackoverflow.com/questions/998098/getting-the-original-files-create-date-upon-upload
+https://github.com/enyo/dropzone/issues/1652
+https://stackoverflow.com/questions/47350923/build-a-list-of-filenames-in-dropzone-js-to-pass-in-form-submit
+
+https://stackoverflow.com/questions/29073878/send-custom-data-with-dropzone-js-on-each-file-upload
+
+
+
+
+SPA
+Angular- React - Vues
+

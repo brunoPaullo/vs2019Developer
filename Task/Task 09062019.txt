@@ -1,0 +1,5 @@
+--Wcf test
+	SoupUI
+
+
+Complete WCF Service all entities
