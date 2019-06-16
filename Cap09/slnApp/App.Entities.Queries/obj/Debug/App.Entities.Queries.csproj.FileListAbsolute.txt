@@ -1,0 +1,18 @@
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Entities.Queries\bin\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Entities.Queries\bin\Debug\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csprojAssemblyReference.cache
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Entities.Queries\bin\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Entities.Queries\bin\Debug\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Entities.Queries\bin\Debug\App.Entities.Queries.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Entities.Queries\bin\Debug\App.Entities.Queries.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csprojAssemblyReference.cache
