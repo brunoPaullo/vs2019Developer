@@ -24,3 +24,29 @@ C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Servi
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Data.DataAccess.pdb
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Data.DataAccess.dll.config
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.csproj.CopyComplete
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Service.WCFLib.dll.config
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Service.WCFLib.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Service.WCFLib.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Data.repository.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Data.Repository.Interface.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Entities.Base.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Entities.Queries.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Service.WCFLib.Interfaces.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\EntityFramework.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Data.DataAccess.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Data.Repository.Interface.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Data.repository.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Data.repository.dll.config
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Entities.Base.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Entities.Queries.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Service.WCFLib.Interfaces.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\EntityFramework.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Data.DataAccess.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\bin\Debug\App.Data.DataAccess.dll.config
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.csproj.CopyComplete
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib\obj\Debug\App.Service.WCFLib.pdb

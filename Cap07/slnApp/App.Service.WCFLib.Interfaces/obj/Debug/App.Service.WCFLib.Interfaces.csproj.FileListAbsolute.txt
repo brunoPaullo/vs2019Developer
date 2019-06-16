@@ -7,3 +7,12 @@ C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Servi
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.csproj.CopyComplete
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.dll
 C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib.Interfaces\bin\Debug\App.Service.WCFLib.Interfaces.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib.Interfaces\bin\Debug\App.Service.WCFLib.Interfaces.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib.Interfaces\bin\Debug\App.Entities.Base.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib.Interfaces\bin\Debug\App.Entities.Base.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.csproj.CopyComplete
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFLib.Interfaces\obj\Debug\App.Service.WCFLib.Interfaces.pdb
