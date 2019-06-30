@@ -1,0 +1,58 @@
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFHost.dll.config
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFHost.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFHost.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\obj\Debug\App.Service.WCFHost.csprojAssemblyReference.cache
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\obj\Debug\App.Service.WCFHost.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\obj\Debug\App.Service.WCFHost.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\obj\Debug\App.Service.WCFHost.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFLib.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFLib.Interfaces.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\EntityFramework.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\EntityFramework.SqlServer.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Entities.Base.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.repository.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.Repository.Interface.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.DataAccess.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFLib.Interfaces.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFLib.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFLib.dll.config
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\EntityFramework.xml
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\EntityFramework.SqlServer.xml
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Entities.Base.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.repository.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.repository.dll.config
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.Repository.Interface.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.DataAccess.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.DataAccess.dll.config
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Service.WCFHost\obj\Debug\App.Service.WCFHost.csproj.CopyComplete
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFHost.dll.config
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFHost.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFHost.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFLib.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFLib.Interfaces.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\EntityFramework.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\EntityFramework.SqlServer.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Entities.Base.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.repository.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.Repository.Interface.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Entities.Queries.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.DataAccess.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFLib.Interfaces.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFLib.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Service.WCFLib.dll.config
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\EntityFramework.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\EntityFramework.SqlServer.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Entities.Base.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.repository.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.repository.dll.config
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.Repository.Interface.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Entities.Queries.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.DataAccess.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\bin\App.Data.DataAccess.dll.config
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\obj\Debug\App.Service.WCFHost.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\obj\Debug\App.Service.WCFHost.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\obj\Debug\App.Service.WCFHost.csproj.CopyComplete
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\obj\Debug\App.Service.WCFHost.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Service.WCFHost\obj\Debug\App.Service.WCFHost.pdb

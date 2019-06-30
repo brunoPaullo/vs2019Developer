@@ -1,0 +1,20 @@
+﻿div, article {
+    width: 250px;
+    height: 300px;
+    border: 1px solid blue;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin: 20px;
+}
+
+.listado {
+    margin-top: 20px;
+}
+
+.listado table, th, td {
+    border-width:1px;
+    border-color:#796d6d;
+    border-style:solid;
+}
