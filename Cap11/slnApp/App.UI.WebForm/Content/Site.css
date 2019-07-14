@@ -2,3 +2,13 @@
 {
     color:red;
 }
+
+.ErrorMessaje{
+    color:red;
+    font-size:12px;
+}
+
+.ErrorMessajeConsultar{
+    color:blue;
+    font-size:10px;
+}

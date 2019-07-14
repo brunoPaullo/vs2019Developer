@@ -1,0 +1,80 @@
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csprojAssemblyReference.cache
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll.config
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap04\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll.config
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csprojAssemblyReference.cache
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
+C:\Users\EXTENSION\Documents\C# Developer\Git\C#Developer\Cap07\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll.config
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.pdb
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
+C:\Users\Bruno\Documents\Cursos\Developer\vs2019Developer\Cap07\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll.config
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csprojAssemblyReference.cache
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap09\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll.config
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csprojAssemblyReference.cache
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb
