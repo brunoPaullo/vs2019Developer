@@ -22,6 +22,15 @@ namespace App.UI.WebForm {
         protected global::System.Web.UI.WebControls.ContentPlaceHolder ContentHead;
         
         /// <summary>
+        /// Control ScriptManager1.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.ScriptManager ScriptManager1;
+        
+        /// <summary>
         /// Control ContentMain.
         /// </summary>
         /// <remarks>

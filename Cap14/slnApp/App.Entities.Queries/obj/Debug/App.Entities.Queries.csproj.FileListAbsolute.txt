@@ -27,3 +27,9 @@ C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Entiti
 C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csproj.CoreCompileInputs.cache
 C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.dll
 C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Queries\bin\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Queries\bin\Debug\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Queries\obj\Debug\App.Entities.Queries.csprojAssemblyReference.cache

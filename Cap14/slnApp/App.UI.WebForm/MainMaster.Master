@@ -45,6 +45,7 @@
 </head>
 <body class="skin-blue">
     <form runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
         <div class="wrapper">
 
             <header class="main-header">
@@ -330,12 +331,12 @@
                                 <li><a href="#"><i class="fa fa-circle-o"></i>Clientes</a></li>
                                 <li><a href="#"><i class="fa fa-circle-o"></i>Empleados</a></li>
                                 <li><a href='<%=Page.ResolveUrl("~/Pages/Mantenimientos/Track/TrackList.aspx")%>'><i class="fa fa-circle-o"></i>Track</a></li>
-                            </ul>                            
+                            </ul>
                         </li>
                         <li class="treeview">
                             <a href="#">
                                 <i class="fa fa-shopping-cart"></i><span>Ventas</span>
-                                 <i class="fa fa-angle-left pull-right"></i>
+                                <i class="fa fa-angle-left pull-right"></i>
                             </a>
                             <ul class="treeview-menu">
                                 <li><a href='<%=Page.ResolveUrl("~/Pages/Venta/VentaRegistro.aspx")%>'><i class="fa fa-circle-o"></i>Registrar Venta</a></li>

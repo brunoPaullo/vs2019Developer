@@ -9,3 +9,9 @@ C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Entiti
 C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Entities.Base\obj\Release\App.Entities.Base.csproj.CoreCompileInputs.cache
 C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Entities.Base\obj\Release\App.Entities.Base.dll
 C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Entities.Base\obj\Release\App.Entities.Base.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Base\bin\Release\App.Entities.Base.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Base\bin\Release\App.Entities.Base.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Base\obj\Release\App.Entities.Base.csprojAssemblyReference.cache
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Base\obj\Release\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Base\obj\Release\App.Entities.Base.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Base\obj\Release\App.Entities.Base.pdb

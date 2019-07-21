@@ -26,3 +26,8 @@ C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Entiti
 C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
 C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.dll
 C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.pdb

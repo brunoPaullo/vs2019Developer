@@ -53,3 +53,14 @@ C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.R
 C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csproj.CopyComplete
 C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.dll
 C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap11\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Data.Repository.Interface\bin\Debug\App.Data.Repository.Interface.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Data.Repository.Interface\bin\Debug\App.Data.Repository.Interface.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Base.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Queries.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Base.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Queries.pdb
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csprojAssemblyReference.cache
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csproj.CopyComplete
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.dll
+C:\Users\EXTENSION\Documents\C#Developer\vs2019Developer\Cap14\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.pdb
